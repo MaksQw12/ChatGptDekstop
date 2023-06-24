@@ -1,4 +1,4 @@
 # ChatGptDekstop
 <h2>beta version under development</h2>
 <p>измените json файл вставив туда свой api токен</p>
-<img src="https://i.postimg.cc/fy4FtYMp/image.png" width="300" height="300"/>
+<img src="https://i.postimg.cc/fy4FtYMp/image.png"/>
