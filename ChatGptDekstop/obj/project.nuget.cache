@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "BSEaYwll2TVKvI9GgPHhIf8FbAIExoPSJjbRbmXJzp87viH4hS6sIzEfUtK99mgcmBtDyDtGgHara60/O9f9Mg==",
+  "success": true,
+  "projectFilePath": "D:\\Repositoriy\\ChatGptDekstop\\ChatGptDekstop.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\admin\\.nuget\\packages\\newtonsoft.json\\13.0.3\\newtonsoft.json.13.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}
